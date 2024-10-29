@@ -1,5 +1,5 @@
 ;; init-ui.el --- Better lookings and appearances.	-*- lexical-binding: t -*-
-;;test
+
 ;; Copyright (C) 2006-2024 Vincent Zhang
 
 ;; Author: Vincent Zhang <seagle0128@gmail.com>
