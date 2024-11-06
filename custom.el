@@ -130,5 +130,4 @@
  )
 
 (cua-mode 1)
-(add-hook 'after-init-hook #'dashboard-refresh-buffer)
 ;;; custom.el ends here
